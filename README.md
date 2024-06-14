@@ -1,0 +1,4 @@
+  Greeting to everyone who will be reading this readme. I would like to share that there was a lot of change in the recipe application that i have just developed as right now it is fully developed and functionable. now the user will be able to filter the list of the recipes that they had just selected. They can enter the name of an ingredient that can be in a specific recipe,
+  this is now quit a huge improvement from the last time and will make user to be very happy for it is also a user friendly application than the last version that was not fully developed.
+  Users can choose the different types of food groups of their choice making them being able to choose freely on their own where they would like to place a specific recipe.
+  The user can also choose multiple recipes to include in the menu but they can also select the maximum number of calories.
